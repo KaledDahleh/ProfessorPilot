@@ -1,3 +1,5 @@
+Before using this program, you need to download UIC's grade distribution. This is only public to UIC students and should not be used by non-UIC students. Therefore, I have not shared the file.
+
 '''
 THIS PROGRAM IS DESIGNED TO... 
 take an input of any course taught at UIC, then rank all of the professors who taught the course from *best* to worst --- see next line
